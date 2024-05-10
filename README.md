@@ -4,7 +4,7 @@ In my journey of learning Docker, here are some Dockerfiles that I have created 
 I've utilized AI assistance to generate some of the application codes.\
 Each Dockerfile represents a different type of application.
 ### Table of Contents
-1.[Basic Dockerfile for a static HTML website](docs/CONTRIBUTING.md)\
+1.[Basic Dockerfile for a static HTML website](Basic-Dockerfile-for-a-static-HTML-website)\
 2.[Dockerfile for a Node.js Applications]\
 3.[Multi-stage Dockerfile for a Go application]\
 4.[Dockerfile for a Python Flask application]\
