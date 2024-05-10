@@ -1,6 +1,8 @@
 # Dockerfiles-Sample-Apps
 ### Dockerfiles for Various Applications
-This repository contains a collection of Dockerfiles for building and running various types of applications using Docker containers. Each Dockerfile is accompanied by a brief explanation of its purpose and usage.
+In my journey of learning Docker, here are some Dockerfiles that I have created to enhance my skills in Dockerfile writing.\
+I've utilized AI assistance to generate some of the application codes.\
+Each Dockerfile represents a different type of application.
 ### Table of Contents
 1.[Basic Dockerfile for a static HTML website](docs/CONTRIBUTING.md)\
 2.[Dockerfile for a Node.js Applications]\
