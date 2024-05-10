@@ -5,7 +5,7 @@ I've utilized AI assistance to generate some of the application codes.\
 Each Dockerfile represents a different type of application.
 ### Table of Contents
 1.[Basic Dockerfile for a static HTML website](Basic-Dockerfile-for-a-static-HTML-website)\
-2.[Dockerfile for a Node.js Applications]\
+2.[Dockerfile for a Node.js Applications](Dockerfile-for-a-Node.js-Application)\
 3.[Multi-stage Dockerfile for a Go application]\
 4.[Dockerfile for a Python Flask application]\
 5.[Dockerfile for a Django Application]\
