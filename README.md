@@ -8,5 +8,4 @@ Each Dockerfile represents a different type of application.
 2.[Dockerfile for a Node.js Applications](Dockerfile-for-a-Node.js-Application)\
 3.[Multi-stage Dockerfile for a Go application](Multi-stage-Dockerfile-for-a-Go-application)\
 4.[Dockerfile for a Python Flask application](Dockerfile-for-a-Python-Flask-application)\
-5.[Dockerfile for a multi-stage Node.js application build](Dockerfile-for-a-multi-stage-Node.js-application-build)\
-6.[Dockerfile for a Python application using multi-stage builds](Dockerfile-for-a-Python-application-using-multi-stage-builds)\
+5.[Dockerfile for a Python application using multi-stage builds](Dockerfile-for-a-Python-application-using-multi-stage-builds)\
